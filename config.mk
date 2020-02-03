@@ -86,10 +86,3 @@ ifeq ($(IS_PHONE),true)
 PRODUCT_PACKAGES += \
     GoogleDialer
 endif
-
-# Recorder
-ifneq ($(TARGET_SUPPORTS_GOOGLE_RECORDER), false)
-PRODUCT_PACKAGES += \
-    NgaResources \
-    RecorderPrebuilt
-endif
