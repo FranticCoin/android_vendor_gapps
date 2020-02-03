@@ -78,7 +78,6 @@ PRODUCT_PACKAGES += \
     PixelSetupWizard \
     PrebuiltGmsCoreQt \
     SetupWizardPrebuilt \
-    TurboPrebuilt \
     Velvet \
     WallpaperPickerGoogleRelease \
     WellbeingPrebuilt
