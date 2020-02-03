@@ -54,7 +54,6 @@ PRODUCT_PACKAGES += \
     Gmail \
     GoogleContacts \
     GoogleContactsSyncAdapter \
-    GoogleTTS \
     LatinIMEGooglePrebuilt \
     LocationHistoryPrebuilt \
     MarkupGoogle \
