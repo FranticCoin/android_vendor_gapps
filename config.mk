@@ -79,7 +79,6 @@ PRODUCT_PACKAGES += \
     PixelSetupWizard \
     PrebuiltGmsCoreQt \
     SetupWizardPrebuilt \
-    TipsPrebuilt \
     TurboPrebuilt \
     Velvet \
     WallpaperPickerGoogleRelease \
